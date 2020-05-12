@@ -5,9 +5,8 @@
 * Body-parser.json 
 * Express
 
-
 ### Default port 
-Default port is 3000
+* Default port is 3000
 
 ### Running server 
 * Install dependencies with `npm i`
